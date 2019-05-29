@@ -12,12 +12,23 @@
     
     
     <item>
-      <title>在博客中使用utterances评论系统</title>
-      <link>https://jianlou48.github.io/post/use-utterances-in-blog-zh/</link>
+      <title>Use utterances in blog</title>
+      <link>https://jianlou48.github.io/post/use-utterances-in-blog/</link>
       <pubDate>Wed, 29 May 2019 15:05:27 +0800</pubDate>
       
-      <guid>https://jianlou48.github.io/post/use-utterances-in-blog-zh/</guid>
-      <description>&lt;p&gt;之前也用了很多利用Github issues来做评论系统的插件，说实话挺好用的，但是严重依赖Github，而且鉴权粒度太大，动不动就要全部仓库的读写权。&lt;/p&gt;</description>
+      <guid>https://jianlou48.github.io/post/use-utterances-in-blog/</guid>
+      <description>&lt;h2 id=&#34;official-introduction-1&#34;&gt;Official Introduction&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+
+&lt;p&gt;A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Open source. 🙌&lt;/li&gt;
+&lt;li&gt;No tracking, no ads, always free. 📡🚫&lt;/li&gt;
+&lt;li&gt;No lock-in. All data stored in GitHub issues.&lt;/li&gt;
+&lt;li&gt;Styled with Primer, the css toolkit that powers GitHub. 💅&lt;/li&gt;
+&lt;li&gt;Dark theme. 🌘&lt;/li&gt;
+&lt;li&gt;Lightweight. Vanilla TypeScript. No font downloads, JavaScript frameworks or polyfills for evergreen browsers. 🐦🌲&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
