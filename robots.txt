@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jianlou48.github.io/sitemap.xml

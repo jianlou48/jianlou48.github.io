@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on jianlou48&#39;s blog</title>
+    <link>https://jianlou48.github.io/categories/software/</link>
+    <description>Recent content in Software on jianlou48&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2019 15:05:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://jianlou48.github.io/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>在博客中使用utterances评论系统</title>
+      <link>https://jianlou48.github.io/post/use-utterances-in-blog-zh/</link>
+      <pubDate>Wed, 29 May 2019 15:05:27 +0800</pubDate>
+      
+      <guid>https://jianlou48.github.io/post/use-utterances-in-blog-zh/</guid>
+      <description>&lt;p&gt;之前也用了很多利用Github issues来做评论系统的插件，说实话挺好用的，但是严重依赖Github，而且鉴权粒度太大，动不动就要全部仓库的读写权。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

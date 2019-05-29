@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jianlou48&#39;s blog</title>
+    <link>https://jianlou48.github.io/</link>
+    <description>Recent content on jianlou48&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2019 15:05:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://jianlou48.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jianlou48.github.io/about/</link>
+      <pubDate>Tue, 28 May 2019 21:38:52 +0800</pubDate>
+      
+      <guid>https://jianlou48.github.io/about/</guid>
+      <description>Hey! Welocome to visit my blog.Feel relax to read and share your thought with me. About Me I live and grow up in China.So uh&amp;hellip;you may found many posts in Chinese,and poor English posts.I will be grateful if you pointed out my mistake,whether language or something else.And I will try my best to write in English,because it is universal. I am interested in life sciences and computer.I like free sofeware</description>
+    </item>
+    
+    <item>
+      <title>Use Utterances in Blog</title>
+      <link>https://jianlou48.github.io/post/use-utterances-in-blog/</link>
+      <pubDate>Wed, 29 May 2019 15:05:27 +0800</pubDate>
+      
+      <guid>https://jianlou48.github.io/post/use-utterances-in-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>在博客中使用utterances评论系统</title>
+      <link>https://jianlou48.github.io/post/use-utterances-in-blog-zh/</link>
+      <pubDate>Wed, 29 May 2019 15:05:27 +0800</pubDate>
+      
+      <guid>https://jianlou48.github.io/post/use-utterances-in-blog-zh/</guid>
+      <description>&lt;p&gt;之前也用了很多利用Github issues来做评论系统的插件，说实话挺好用的，但是严重依赖Github，而且鉴权粒度太大，动不动就要全部仓库的读写权。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
